@@ -1,0 +1,50 @@
+# > Emby服务器
+USER-AGENT,Emby*,Emby
+# > Emby卡戎服务器
+HOST-SUFFIX,charontv.com,Emby
+HOST-SUFFIX,play.charontv.com,Emby
+# > Emby卷毛鼠服务器
+HOST-SUFFIX,jmsooo.com,Emby
+HOST-SUFFIX,sg1.jmsooo.com,Emby
+HOST-SUFFIX,sg2.jmsooo.com,Emby
+HOST-SUFFIX,dx1.jmsooo.com,Emby
+HOST-SUFFIX,dx2.jmsooo.com,Emby
+HOST-SUFFIX,usa1.jmsooo.com,Emby
+HOST-SUFFIX,usa2.jmsooo.com,Emby
+HOST-SUFFIX,usa3.jmsooo.com,Emby
+# > Emby终点站服务器
+HOST-SUFFIX,pub1.emby.wtf,Emby
+HOST-SUFFIX,pub1cm1.emby.wtf,Emby
+HOST-SUFFIX,pub2.emby.wtf,Emby
+HOST-SUFFIX,pub2cm1.emby.wtf,Emby
+HOST-SUFFIX,pub3.emby.wtf,Emby
+HOST-SUFFIX,pub3cm1.emby.wtf,Emby
+# > MisakaF服务器
+HOST-SUFFIX,emby.misakaf.xyz,Emby
+# > paul电报服务器
+HOST-SUFFIX,emby.imetyou.top,Emby
+HOST-SUFFIX,cf.imetyou.top,Emby
+HOST-SUFFIX,fk.imetyou.top,Emby
+HOST-SUFFIX,kr.imetyou.top,Emby
+HOST-SUFFIX,sg.imetyou.top,Emby
+HOST-SUFFIX,chun.imetyou.top,Emby
+# > paul音乐服务器
+HOST-SUFFIX,chunmusic.imetyou.top,Emby
+HOST-SUFFIX,cfmusic.imetyou.top,Emby
+HOST-SUFFIX,music.imetyou.top,Emby
+# > DolphinEmby服务器
+HOST-SUFFIX,public.emby.ws,Emby
+HOST-SUFFIX,cu.emby.ws,Emby
+HOST-SUFFIX,cm.emby.ws,Emby
+HOST-SUFFIX,ct.emby.ws,Emby
+# > TreeDiagram服务器
+HOST-SUFFIX,789.123456.al,Emby
+# > NMEmby服务器
+HOST-SUFFIX,film.ohhhh.org,Emby
+# > Temby服务器
+HOST-SUFFIX,temby.285286.xyz,Emby
+# > Kako服务器
+HOST-SUFFIX,www.kakoemby.xyz,Emby
+# > 野兽服务器
+HOST-SUFFIX,emby.mius.uk,Emby
+HOST-SUFFIX,emby.jiecaoyu.cn,Emby
