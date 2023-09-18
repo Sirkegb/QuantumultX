@@ -50,3 +50,5 @@ HOST-SUFFIX,emby.mius.uk,Emby
 HOST-SUFFIX,emby.jiecaoyu.cn,Emby
 # > 剧狗服务器
 HOST-SUFFIX,ju.dog,Emby
+# > 酷安服务器
+HOST-SUFFIX,140.238.6.215,Emby
