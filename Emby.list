@@ -52,3 +52,5 @@ HOST-SUFFIX,emby.jiecaoyu.cn,Emby
 HOST-SUFFIX,ju.dog,Emby
 # > 酷安服务器
 HOST-SUFFIX,140.238.6.215,Emby
+# > 私人服务器
+HOST-SUFFIX,emby.agon.cf,Emby
