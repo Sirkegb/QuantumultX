@@ -62,4 +62,6 @@ HOST-SUFFIX,emby.bangumi.ca,Emby
 HOST-SUFFIX,embymv.tk,Emby
 # > 佛系服务器
 HOST-SUFFIX,1.4545.cf,Emby
+# > 纸片人服务器
+HOST-SUFFIX,embyplus.org,Emby
 
