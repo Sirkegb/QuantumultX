@@ -68,3 +68,6 @@ HOST-SUFFIX,embyplus.org,Emby
 HOST-SUFFIX,ntrrr.am.sb,Emby
 # > EmbyHub服务器
 HOST-SUFFIX,emby.ednovas.org,Emby
+# > 垃圾服务器
+HOST-SUFFIX,cf.xmsl.org,Emby
+HOST-SUFFIX,free.xmsl.org,Emby
