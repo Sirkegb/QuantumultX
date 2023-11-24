@@ -64,5 +64,7 @@ HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,1.4545.cf,Emby
 # > 纸片人服务器
 HOST-SUFFIX,embyplus.org,Emby
-# > BurgerKing服务器
+# > BURGERKING服务器
 HOST-SUFFIX,ntrrr.am.sb,Emby
+# > EmbyHub服务器
+HOST-SUFFIX,emby.ednovas.org,Emby
