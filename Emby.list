@@ -71,3 +71,5 @@ HOST-SUFFIX,emby.ednovas.org,Emby
 # > 垃圾服务器
 HOST-SUFFIX,cf.xmsl.org,Emby
 HOST-SUFFIX,free.xmsl.org,Emby
+# > 放映厅服务器
+HOST-SUFFIX,emby.9191001.xyz,Emby
