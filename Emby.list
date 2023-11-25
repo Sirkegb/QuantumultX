@@ -73,3 +73,5 @@ HOST-SUFFIX,cf.xmsl.org,Emby
 HOST-SUFFIX,free.xmsl.org,Emby
 # > 放映厅服务器
 HOST-SUFFIX,emby.9191001.xyz,Emby
+# > Infinityfly服务器
+HOST-SUFFIX,nc1.infinityfly.top,Emby
