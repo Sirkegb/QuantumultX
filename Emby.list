@@ -1,10 +1,9 @@
-##Emby分流
-# > Emby服务器
+# Emby分流
 USER-AGENT,Emby*,Emby
-# > 卡戎
+# 卡戎
 HOST-SUFFIX,charontv.com,Emby
 HOST-SUFFIX,play.charontv.com,Emby
-# > 卷毛鼠
+# 卷毛鼠
 HOST-SUFFIX,jmsooo.com,Emby
 HOST-SUFFIX,sg1.jmsooo.com,Emby
 HOST-SUFFIX,sg2.jmsooo.com,Emby
@@ -13,76 +12,76 @@ HOST-SUFFIX,dx2.jmsooo.com,Emby
 HOST-SUFFIX,usa1.jmsooo.com,Emby
 HOST-SUFFIX,usa2.jmsooo.com,Emby
 HOST-SUFFIX,usa3.jmsooo.com,Emby
-# > 终点站
+# 终点站
 HOST-SUFFIX,pub1.emby.wtf,Emby
 HOST-SUFFIX,pub1cm1.emby.wtf,Emby
 HOST-SUFFIX,pub2.emby.wtf,Emby
 HOST-SUFFIX,pub2cm1.emby.wtf,Emby
 HOST-SUFFIX,pub3.emby.wtf,Emby
 HOST-SUFFIX,pub3cm1.emby.wtf,Emby
-# > MisakaF
+# MisakaF
 HOST-SUFFIX,emby.misakaf.xyz,Emby
-# > paul电报服
+# paul电报服
 HOST-SUFFIX,emby.imetyou.top,Emby
 HOST-SUFFIX,cf.imetyou.top,Emby
 HOST-SUFFIX,fk.imetyou.top,Emby
 HOST-SUFFIX,kr.imetyou.top,Emby
 HOST-SUFFIX,sg.imetyou.top,Emby
 HOST-SUFFIX,chun.imetyou.top,Emby
-# > paul音乐服
+# paul音乐服
 HOST-SUFFIX,chunmusic.imetyou.top,Emby
 HOST-SUFFIX,cfmusic.imetyou.top,Emby
 HOST-SUFFIX,music.imetyou.top,Emby
-# > DolphinEmby
+# DolphinEmby
 HOST-SUFFIX,public.emby.ws,Emby
 HOST-SUFFIX,cu.emby.ws,Emby
 HOST-SUFFIX,cm.emby.ws,Emby
 HOST-SUFFIX,ct.emby.ws,Emby
-# > TreeDiagram
+# TreeDiagram
 HOST-SUFFIX,789.123456.al,Emby
-# > NMEmby
+# NMEmby
 HOST-SUFFIX,film.ohhhh.org,Emby
-# > Temby
+# Temby
 HOST-SUFFIX,temby.285286.xyz,Emby
-# > Kakoemby
+# Kakoemby
 HOST-SUFFIX,www.kakoemby.xyz,Emby
-# > 野兽餐厅
+# 野兽餐厅
 HOST-SUFFIX,emby.mius.uk,Emby
 HOST-SUFFIX,emby.jiecaoyu.cn,Emby
-# > 剧狗
+# 剧狗
 HOST-SUFFIX,ju.dog,Emby
-# > 酷安
+# 酷安
 HOST-SUFFIX,140.238.6.215,Emby
 HOST-SUFFIX,94.16.122.183,Emby
-# > 私人影院
+# 私人影院
 HOST-SUFFIX,emby.agon.cf,Emby
-# > Nyamedia
+# Nyamedia
 HOST-SUFFIX,emby.bangumi.ca,Emby
-# > Peach公益服
+# Peach公益服
 HOST-SUFFIX,embymv.tk,Emby
-# > 佛系公益服
+# 佛系公益服
 HOST-SUFFIX,1.4545.cf,Emby
-# > 纸片人小站
+# 纸片人小站
 HOST-SUFFIX,embyplus.org,Emby
-# > SYN Streaming
+# SYN Streaming
 HOST-SUFFIX,ntrrr.am.sb,Emby
-# > EmbyHub
+# EmbyHub
 HOST-SUFFIX,emby.ednovas.org,Emby
-# > 垃圾影音
+# 垃圾影音
 HOST-SUFFIX,cf.xmsl.org,Emby
 HOST-SUFFIX,free.xmsl.org,Emby
-# > 放映厅
+# 放映厅
 HOST-SUFFIX,emby.9191001.xyz,Emby
-# > Infinityfly+
+# Infinityfly+
 HOST-SUFFIX,nc1.infinityfly.top,Emby
-# > 二次元Emby
+# 二次元Emby
 HOST-SUFFIX,media.nijigem.by,Emby
-# > PiliPili
+# PiliPili
 HOST-SUFFIX,emby.pilipiliultra.top,Emby
 HOST-SUFFIX,emby.pilipiliultra.com,Emby
-# > 田小瑞
+# 田小瑞
 HOST-SUFFIX,us.zerodisk.site,Emby
-# > PandaTV
+# PandaTV
 HOST-SUFFIX,emby.at,Emby
 HOST-SUFFIX,v.emby.at,Emby
 HOST-SUFFIX,t.emby.at,Emby
