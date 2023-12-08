@@ -82,3 +82,7 @@ HOST-SUFFIX,emby.pilipiliultra.top,Emby
 HOST-SUFFIX,emby.pilipiliultra.com,Emby
 # > 田小瑞
 HOST-SUFFIX,us.zerodisk.site,Emby
+# > PandaTV
+HOST-SUFFIX,emby.at,Emby
+HOST-SUFFIX,v.emby.at,Emby
+HOST-SUFFIX,t.emby.at,Emby
