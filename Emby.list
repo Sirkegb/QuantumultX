@@ -85,6 +85,9 @@ HOST-SUFFIX,us.zerodisk.site,Emby
 HOST-SUFFIX,emby.at,Emby
 HOST-SUFFIX,v.emby.at,Emby
 HOST-SUFFIX,t.emby.at,Emby
+HOST-SUFFIX,line1.emby.at,Emby
+HOST-SUFFIX,line2.emby.at,Emby
+HOST-SUFFIX,line3.emby.at,Emby
 # 叔服
 HOST-SUFFIX,emby3.mcjoker.xyz,Emby
 HOST-SUFFIX,jz.mcjoker.xyz,Emby
