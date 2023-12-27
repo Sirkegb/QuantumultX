@@ -101,4 +101,5 @@ HOST-SUFFIX,emby.lcloud.wiki,Emby
 HOST-SUFFIX,pornemby.club,Emby
 # Polo儿童服
 HOST-SUFFIX,free.poloemby.xyz,Emby
-
+# 水母Jellyfin
+HOST-SUFFIX,ws1.jellyfin.asia,Emby
