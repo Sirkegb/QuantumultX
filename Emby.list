@@ -107,3 +107,6 @@ HOST-SUFFIX,ws1.jellyfin.asia,Emby
 HOST-SUFFIX,v.20120714.xyz,Emby
 # CBCB
 HOST-SUFFIX,emby.cbcb.lol,Emby
+# Lyrebird
+HOST-SUFFIX,direct.lyrebirdemby.com,Emby
+HOST-SUFFIX,cdn.lyrebirdemby.com,Emby
