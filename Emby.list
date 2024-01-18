@@ -105,3 +105,5 @@ HOST-SUFFIX,free.poloemby.xyz,Emby
 HOST-SUFFIX,ws1.jellyfin.asia,Emby
 # Marmot
 HOST-SUFFIX,v.20120714.xyz,Emby
+# CBCB
+HOST-SUFFIX,emby.cbcb.lol,Emby
