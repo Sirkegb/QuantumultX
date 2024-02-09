@@ -115,3 +115,5 @@ HOST-SUFFIX,direct.lyrebirdemby.com,Emby
 HOST-SUFFIX,cdn.lyrebirdemby.com,Emby
 # 江湖Emby
 HOST-SUFFIX,film.reddust.link,Emby
+# Misty
+HOST-SUFFIX,misty.cx,Emby
