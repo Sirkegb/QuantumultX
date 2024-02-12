@@ -72,6 +72,8 @@ HOST-SUFFIX,embyplus.org,Emby
 HOST-SUFFIX,ntrrr.am.sb,Emby
 HOST-SUFFIX,stream.ntrrr.top,Emby
 HOST-SUFFIX,kr-stream.ntrrr.top,Emby
+# SYN zz
+HOST-SUFFIX,zz-stream.ntrrr.top,Emby
 # EmbyHub
 HOST-SUFFIX,emby.ednovas.org,Emby
 # 垃圾影音
