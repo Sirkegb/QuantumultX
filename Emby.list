@@ -79,6 +79,13 @@ HOST-SUFFIX,emby.ednovas.org,Emby
 # 垃圾影音
 HOST-SUFFIX,cf.xmsl.org,Emby
 HOST-SUFFIX,free.xmsl.org,Emby
+# MJJ
+HOST-SUFFIX,direct.mjjemby.org,Emby
+HOST-SUFFIX,cf.mjjemby.org,Emby
+HOST-SUFFIX,sg01.mjjemby.org,Emby
+HOST-SUFFIX,jp01.mjjemby.org,Emby
+HOST-SUFFIX,jp02.mjjemby.org,Emby
+HOST-SUFFIX,kr.mjjemby.org,Emby
 # 放映厅
 HOST-SUFFIX,emby.9191001.xyz,Emby
 # Infinityfly+
