@@ -159,5 +159,8 @@ HOST-SUFFIX,us.nanflix.net,Emby
 HOST-SUFFIX,random.ouonet.org,Emby
 # 惊蛰Emby
 HOST-SUFFIX,emby.jingzhe.pro,Emby
+# 西瓜Emby
+HOST-SUFFIX,1024.name,Emby
+HOST-SUFFIX,spare.1024.name,Emby
 
 
