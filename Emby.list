@@ -153,3 +153,6 @@ HOST-SUFFIX,july.vfing.de,Emby
 HOST-SUFFIX,july-hk.vfing.de,Emby
 HOST-SUFFIX,july-sg.vfing.de,Emby
 HOST-SUFFIX,july-us.vfing.de,Emby
+# 天南Emby
+HOST-SUFFIX,us.nanflix.net,Emby
+
