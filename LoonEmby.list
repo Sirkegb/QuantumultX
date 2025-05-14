@@ -1,16 +1,168 @@
-# NAME: Bahamut
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:12
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 6
-# USER-AGENT: 1
-# TOTAL: 8
-DOMAIN,bahamut.akamaized.net
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,viblast.com
-USER-AGENT,Anime*
+# NAME: Emby
+
+# 卡戎
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,play.charontv.com
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,sg1.jmsooo.com
+DOMAIN-SUFFIX,sg2.jmsooo.com
+DOMAIN-SUFFIX,dx1.jmsooo.com
+DOMAIN-SUFFIX,dx2.jmsooo.com
+DOMAIN-SUFFIX,usa1.jmsooo.com
+DOMAIN-SUFFIX,usa2.jmsooo.com
+DOMAIN-SUFFIX,usa3.jmsooo.com
+# 终点站
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1cm1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2cm1.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3cm1.emby.wtf
+# MisakaF
+DOMAIN-SUFFIX,emby.misakaf.org
+# 猫熊影业
+DOMAIN-SUFFIX,emby.kim
+# 尘烬
+DOMAIN-SUFFIX,free.emby.eu.org
+# paul电报服
+DOMAIN-SUFFIX,emby.imetyou.top
+DOMAIN-SUFFIX,cf.imetyou.top
+DOMAIN-SUFFIX,fk.imetyou.top
+DOMAIN-SUFFIX,kr.imetyou.top
+DOMAIN-SUFFIX,sg.imetyou.top
+DOMAIN-SUFFIX,chun.imetyou.top
+# paul音乐服
+DOMAIN-SUFFIX,chunmusic.imetyou.top
+DOMAIN-SUFFIX,cfmusic.imetyou.top
+DOMAIN-SUFFIX,music.imetyou.top
+# DolphinEmby
+DOMAIN-SUFFIX,public.emby.ws
+DOMAIN-SUFFIX,cu.emby.ws
+DOMAIN-SUFFIX,cm.emby.ws
+DOMAIN-SUFFIX,ct.emby.ws
+# TreeDiagram
+DOMAIN-SUFFIX,789.123456.al
+# NMEmby
+DOMAIN-SUFFIX,film.hovervan.org
+# Temby
+DOMAIN-SUFFIX,temby.285286.xyz
+# Kakoemby
+DOMAIN-SUFFIX,www.kakoemby.xyz
+# 野兽餐厅
+DOMAIN-SUFFIX,emby.mius.uk
+DOMAIN-SUFFIX,emby.jiecaoyu.cn
+# 剧狗
+DOMAIN-SUFFIX,ju.dog
+# 酷安
+DOMAIN-SUFFIX,140.238.6.215
+DOMAIN-SUFFIX,94.16.122.183
+# 私人影院
+DOMAIN-SUFFIX,emby.agon.cf
+# Nyamedia
+DOMAIN-SUFFIX,emby.bangumi.ca
+# Peach公益服
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,embymv.tk
+# 佛系公益服
+DOMAIN-SUFFIX,1.4545.cf
+# 纸片人小站
+DOMAIN-SUFFIX,embyplus.org
+# SYN Streaming
+DOMAIN-SUFFIX,ntrrr.am.sb
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,kr-stream.ntrrr.top
+# SYN zz
+DOMAIN-SUFFIX,zz-stream.ntrrr.top
+# EmbyHub
+DOMAIN-SUFFIX,emby.ednovas.org
+# 垃圾影音
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,free.xmsl.org
+# MJJ
+DOMAIN-SUFFIX,direct.mjjemby.org
+DOMAIN-SUFFIX,cf.mjjemby.org
+DOMAIN-SUFFIX,sg01.mjjemby.org
+DOMAIN-SUFFIX,jp01.mjjemby.org
+DOMAIN-SUFFIX,jp02.mjjemby.org
+DOMAIN-SUFFIX,kr.mjjemby.org
+# 放映厅
+DOMAIN-SUFFIX,emby.9191001.xyz
+# Infinityfly+
+DOMAIN-SUFFIX,nc1.infinityfly.top
+# 二次元Emby
+DOMAIN-SUFFIX,media.nijigem.by
+# PiliPili
+DOMAIN-SUFFIX,emby.pilipiliultra.top
+DOMAIN-SUFFIX,emby.pilipiliultra.com
+# 田小瑞
+DOMAIN-SUFFIX,us.zerodisk.site
+# PandaTV
+DOMAIN-SUFFIX,emby.at
+DOMAIN-SUFFIX,v.emby.at
+DOMAIN-SUFFIX,t.emby.at
+DOMAIN-SUFFIX,line1.emby.at
+DOMAIN-SUFFIX,line2.emby.at
+DOMAIN-SUFFIX,line3.emby.at
+# 叔服
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
+DOMAIN-SUFFIX,jz.mcjoker.xyz
+# LendEmby
+DOMAIN-SUFFIX,emby.lcloud.wiki
+# PornEmby
+DOMAIN-SUFFIX,pornemby.club
+# Polo儿童服
+DOMAIN-SUFFIX,free.poloemby.xyz
+# 水母Jellyfin
+DOMAIN-SUFFIX,ws1.jellyfin.asia
+# Marmot
+DOMAIN-SUFFIX,v.20120714.xyz
+# CBCB
+DOMAIN-SUFFIX,emby.cbcb.lol
+# Lyrebird
+DOMAIN-SUFFIX,direct.lyrebirdemby.com
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+# 江湖Emby
+DOMAIN-SUFFIX,film.reddust.link
+# Misty
+DOMAIN-SUFFIX,misty.cx
+# 白浪兔
+DOMAIN-SUFFIX,emby.airpor.top
+# 野兽牢大
+DOMAIN-SUFFIX,emby-us-v4.mius.uk
+DOMAIN-SUFFIX,emby-fr-v6.mius.uk
+# 阿甘正传
+DOMAIN-SUFFIX,joker1.top
+DOMAIN-SUFFIX,sss.889393.xyz
+# Akuai
+DOMAIN-SUFFIX,akuai.9012345.xyz
+# StarCat
+DOMAIN-SUFFIX,flare.catlinks.co.uk
+# CCEmby
+DOMAIN-SUFFIX,cc.coemn.com
+# Tanhua
+DOMAIN-SUFFIX,tanhuatv.site
+# 守候Emby
+DOMAIN-SUFFIX,emby.cn2gias.uk
+DOMAIN-SUFFIX,ehk1.cn2gias.uk
+# 稳健Emby
+DOMAIN-SUFFIX,emby.wenjian.de
+# July Emby
+DOMAIN-SUFFIX,alist7.eu.org
+DOMAIN-SUFFIX,july.vfing.de
+DOMAIN-SUFFIX,july-hk.vfing.de
+DOMAIN-SUFFIX,july-sg.vfing.de
+DOMAIN-SUFFIX,july-us.vfing.de
+# 天南Emby
+DOMAIN-SUFFIX,us.nanflix.net
+# OuOEmby
+DOMAIN-SUFFIX,random.ouonet.org
+# 惊蛰Emby
+DOMAIN-SUFFIX,emby.jingzhe.pro
+# 西瓜Emby
+DOMAIN-SUFFIX,1024.name
+DOMAIN-SUFFIX,spare.1024.name
+
+USER-AGENT,Emby*
+
+
