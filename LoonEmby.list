@@ -162,6 +162,9 @@ DOMAIN-SUFFIX,emby.jingzhe.pro
 # 西瓜Emby
 DOMAIN-SUFFIX,1024.name
 DOMAIN-SUFFIX,spare.1024.name
+# UHD
+DOMAIN-SUFFIX,v1.uhdnow.com
+DOMAIN-SUFFIX,global.uhdnow.com
 
 USER-AGENT,Emby*
 
