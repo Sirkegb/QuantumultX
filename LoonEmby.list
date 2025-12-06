@@ -165,6 +165,9 @@ DOMAIN-SUFFIX,spare.1024.name
 # UHD
 DOMAIN-SUFFIX,v1.uhdnow.com
 DOMAIN-SUFFIX,global.uhdnow.com
+# OkEmby
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
 
 USER-AGENT,Emby*
 
